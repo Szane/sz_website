@@ -387,10 +387,10 @@ $(document)
 
                                                                                 return false;
                                                                             }) // END
-                                                                                // OF
-                                                                                // CLICK
-                                                                                // ON
-                                                                                // ICON-TH
+                                                            // OF
+                                                            // CLICK
+                                                            // ON
+                                                            // ICON-TH
 
                                                             // THE CLICK ON THE
                                                             // PREV OR NEXT
@@ -449,10 +449,10 @@ $(document)
                                                         }
                                                         return false;
                                                     }); // END OF CLICK HANDLING
-                                                        // ON PORTFOLIO ITEM
+                                        // ON PORTFOLIO ITEM
 
                                     }); // END OF HANDLING ON EACH PORTFOLIO
-                                        // ITEM
+                    // ITEM
 
                     var firstfound = 0;
                     items.slice(0, items.length).each(
